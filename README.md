@@ -1,9 +1,11 @@
  **About Me** 
 
-
+<div align="center">
  <img src="https://github.com/Framework-Based-Software/icebreaking-yuankaigou/blob/profile-upload/avatar.png" width="400">
- 
+ <div>
+  
 I'm a passionate algorithm enthusiast who enjoys solving challenging problems. I frequently practice competitive programming on Luogu, primarily using C++ to tackle algorithmic challenges efficiently.
+
 
 📱 I have experience in iOS development, having previously developed and published an iOS app to the App Store using Objective-C.
 
